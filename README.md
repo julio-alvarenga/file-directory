@@ -1,6 +1,4 @@
-# file-directory
-
-Simulation of a File System: SIMFS
+# Simulation of a File System: SIMFS
 
 Built in C and Ubuntu, this script simulates a file directory system using actual memory on the disk.
 
